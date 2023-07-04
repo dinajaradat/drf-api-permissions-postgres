@@ -1,6 +1,6 @@
-# Django REST Framework & Docker
+# Permissions & Postgresql
 
-# Project: Django_Docker
+# Project: Recipes
 # Setup
 ## install Python3 to run this project 
            python3 -m venv .venv 
