@@ -11,7 +11,7 @@
 ## to install all dependencies 
            npm install 
 
-# Initialize the application cd into project directory(Django_Docker)
+# Initialize the application cd into project directory
 # Writepython manage.py runserver in terminal to run the project
 # Tests
 ## activate .venv using this command in terminal 
